@@ -6,7 +6,7 @@
  
  🤔 Looking for quantitative finance work
  
- ⚡ Fun fact: Rumor has it that I share a distant ancestor with the Medallion Fund team. In other words, my DNA probably runs Monte Carlo simulations while I sleep. 
+ ⚡ Rumor has it that I share a distant ancestor with those at the Medallion Fund.  In other words, my DNA probably runs Monte Carlo simulations while I sleep. 
  
 
 
