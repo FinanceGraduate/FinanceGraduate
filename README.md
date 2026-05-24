@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- 🎓 Currently working on a Master of Finance degree
+ 🎓 Master of Finance degree
  
  👯🔎 Seeking to collaborate on forecasting/predictive models, prop trading, and quant finance projects
  
