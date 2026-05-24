@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- 🎓 Master of Finance degree
+ 🎓 MFin, BIB (Hons) 
  
  👯🔎 Seeking to collaborate on forecasting/predictive models, prop trading, and quant finance projects
  
